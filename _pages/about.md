@@ -27,7 +27,6 @@ Feel free to explore my projects or reach out if youâ€™d like to collaborate. Iâ
 
 ## News
 - **08.2024:** Beginned grad school!
-- **05.2024:** Finished my senior thesis "*Dynamic View Synthesis in Unstructured
-Field Environment*"!
+- **05.2024:** Deposited my senior thesis "*Dynamic View Synthesis in Unstructured Field Environment*"!
 - **05.2024:** Obtained my bachelor's degree with the highest honor!
 - **08.2023:** Completed my internship at [LifeFoundry Inc.](https://www.life-foundry.com/)!
