@@ -24,3 +24,10 @@ Regarding my academic experience, I mainly focus on leveraging percpetion algori
 ### 🚀 Let's Connect!
 
 Feel free to explore my projects or reach out if you’d like to collaborate. I’m always excited to connect with others in robotics, AI, and tech innovation!
+
+## News
+- **08.2024:** Beginned grad school!
+- **05.2024:** Finished my senior thesis "*Dynamic View Synthesis in Unstructured
+Field Environment*"!
+- **05.2024:** Obtained my bachelor's degree with the highest honor!
+- **08.2023:** Completed my internship at [LifeFoundry Inc.](https://www.life-foundry.com/)!

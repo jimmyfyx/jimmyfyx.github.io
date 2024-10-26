@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yixiao (Jimmy) Fang"
-  pronouns         : "he/his"  
+  pronouns         : # "he/his"  
   bio              : "Robotics & ML"
   location         : "Champaign, USA"
   employer         : "University of Illinois Urbana-Champaign"
