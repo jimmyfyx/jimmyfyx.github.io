@@ -4,7 +4,7 @@ excerpt: "An autonomous system for lane-following of the F1-Tenth car<br/><img s
 collection: portfolio
 ---
 
-In this project, I led to develope an autonomous driving system for an F1-Tenth car, focusing on creating a reliable perception and control pipeline for safe navigation under various conditions.
+In this project, I led to develop an autonomous driving system for an F1-Tenth car, focusing on creating a reliable perception and control pipeline for safe navigation under various conditions.
 
 - **Lane Detection System**: Designed a window-based lane detection algorithm using a D435 depth camera and image filters, making the system robust to diverse lighting conditions and capable of accurately identifying lane boundaries in real time.
 - **Pure-Pursuit Controller Integration**: Implemented and optimized a pure-pursuit controller using ROS on a Jetson Nano, achieving consistent lane following with an average lane deviation under 5 cm, ensuring precise control and stability during high-speed maneuvers.
