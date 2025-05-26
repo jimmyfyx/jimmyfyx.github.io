@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: An enthusiastic roboticist
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of Illinois</p>
+    <p>ECE Department</p>
+    <p>Champaign, Illinois</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,20 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a first-year M.S./Ph.D. student at [University of Illinois Urbana-Champaign](https://illinois.edu/) under the [Electrical and Computer Engineering](https://ece.illinois.edu/) department. Currently, I'm a member of the [Human-Centered Autonomy Lab](https://thehcalab.web.illinois.edu/) advised by [Prof. Katie Driggs-Campbell](https://krdc.web.illinois.edu/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before attending graduate school, I obtained my bachelor's degree also at University of Illinois Urbana-Champaign, where I majored in Electrical Engineering and minored in Computer Science.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my academic journey, I specialize in developing algorithms to improve the spatial awareness and decision-making abilities of autonomous systems for safety purposes. My reserach interests include:
+- **Safe Autonomy**
+- **Machine Perception, Computer Vision** 
+- **Sim2Real in robotics**
+
+I have also gained hands-on experience with robotic system design in industry, specifically focusing on perception systems integration. I have worked on projects that involve real-time robot agent communication, image classification & processing, and vision-based control based on accurate pose estimation. I'm currently working on 3D sensor simulation with generative models at [Zoox Inc.](https://zoox.com/).
+
+Feel free to explore my projects or reach out if you'd like to collaborate. I'm always excited to connect with others in robotics, AI, and tech innovation!

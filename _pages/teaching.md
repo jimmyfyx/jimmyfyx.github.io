@@ -2,11 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: About my teaching and service experiences.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+##### **Teaching Assistant - ECE 470 Introduction to Robotics**
+###### *University of Illinois Urbana-Champaign ECE Department, 2024.08 - Present*
+- Managed homwork parties to answer students' questions and cover topics including robot kinematics, dynamic & controls, and perception & state estimation
+- Assisted in running the Campuswire online discussion panel
+- Held office hour every week to help students work on labs using the Universal Robot Arm (UR3)
+- Led to design the final project for students to complete drawings with the UR3 Arm
 
-Organize your courses by years, topics, or universities, however you like!
+##### **Undergraduate Course Grader - ECE 120 Introduction to Computing**
+###### *University of Illinois Urbana-Champaign ECE Department, 2021.08 - 2021.12*
+- Graded student homework every week and gave feedback regarding their understandings of basic computer systems concepts
