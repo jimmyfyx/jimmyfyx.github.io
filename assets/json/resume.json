@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Yixiao Fang",
+    "name": "Yixiao (Jimmy) Fang",
     "email": "yixiaof2@illinois.edu",
     "summary": "A person who likes to think rationally."
   },
@@ -13,7 +13,7 @@
       "studyType": "Master of Science in Electrical and Computer Engineering",
       "startDate": "2024-08-23",
       "endDate": "Present",
-      "courses": ["GPA: 4.0/4.0"]
+      "courses": ["GPA: 3.83/4.0"]
     },
     {
       "institution": "University of Illinois Urbana-Champaign",
@@ -32,10 +32,10 @@
     {
       "name": "Zoox Inc.",
       "location": "Foster City, CA, U.S.",
-      "position": "Machine Learning Software Engineer",
+      "position": "Machine Learning Engineer, 3D Sensor Simulation",
       "url": "https://zoox.com/",
       "startDate": "2025-05-27",
-      "endDate": "Present",
+      "endDate": "2025-08-15",
       "highlights": ["Work on generating high-fidelity sensor simulation data for training AV models with generative AI"]
     },
     {
