@@ -32,6 +32,7 @@ I'm a second-year M.S./Ph.D. student at [University of Illinois Urbana-Champaign
 Before attending graduate school, I obtained my bachelor's degree also at University of Illinois Urbana-Champaign, where I majored in Electrical Engineering and minored in Computer Science.
 
 In my academic journey, I specialize in developing algorithms to improve the spatial awareness and decision-making abilities of autonomous systems for safety purposes. My reserach interests include:
+
 - **Safe Autonomy**
 - **Machine Perception, Computer Vision** 
 - **Real-to-Sim and Sim-to-Real in robotics**

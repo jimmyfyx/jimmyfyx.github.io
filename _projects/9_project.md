@@ -8,4 +8,3 @@ category: work
 ---
 
 Coming soon ...
-

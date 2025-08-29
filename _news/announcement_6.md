@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 Our paper **Towards Real-Time Generation of Delay-Compensated Video Feeds for Outdoor Mobile Robot Teleoperation** is accepted to ICRA 2025!
-
-
