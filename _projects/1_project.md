@@ -13,9 +13,9 @@ This project is related to our work [Learning to Turn: Diffusion Imitation for R
 
 ### IsaacGym
 
-The initial idea was to use the recently developed simulator [IsaacGym](https://developer.nvidia.com/isaac-gym) to build a customized simulation environment, as it has been widely used for robot policy learning. Moreover, we wanted to leverage its ability of runnning environments in parallel to accelerate data collection pipeline. 
+The initial idea was to use the recently developed simulator [IsaacGym](https://developer.nvidia.com/isaac-gym) to build a customized simulation environment, as it has been widely used for robot policy learning. Moreover, we wanted to leverage its ability of runnning environments in parallel to accelerate data collection pipeline.
 
-In IsaacGym, we implemented the following features: 
+In IsaacGym, we implemented the following features:
 
 - Converted prepared models of crop variants (corn, tabacco, and soybean) and the field robot in SDF form to URDF form
 - Developed a pipeline to generate 20 random croprow grid layouts for simulation at a time from a config file and load the assets into the simulator
@@ -63,7 +63,7 @@ The repo for the Gazebo environment can be found at [here](https://github.com/ji
 
 Data was recorded using ROS bags and extracted by ROS topic names. The following data was collected and synchronized:
 
-- RGB images 
+- RGB images
 - Depth images
 - Goal position of each demonstration
 - Trajectory of each demonstration (2D waypoints)
@@ -81,4 +81,3 @@ The data was then further processed using the [Zarr](https://zarr.readthedocs.io
 ## Acknowledgement
 
 Special thanks to Dr. Arun N. Sivakumar and Dr. Jose Cuaran for helping me through this project
-
