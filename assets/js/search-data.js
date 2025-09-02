@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "The PDF file is a more compact resume, including detailed research experiences etc.",
+          description: "More about me ...",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -85,14 +85,14 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-agricultural-robots-simulation-environment",
           title: 'Agricultural Robots Simulation Environment',
-          description: "Build a simulation environment for under-canopy agricultural field robots",
+          description: "A simulation environment for under-canopy agricultural field robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "More projects to be updated ...",
+            },},{id: "projects-f1-tenth-autonomous-system",
+          title: 'F1-Tenth Autonomous System',
+          description: "An autonomous system for F1-Tenth car lane-following",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-email',
         title: 'email',
