@@ -37,6 +37,6 @@ In my academic journey, I specialize in developing algorithms to improve the spa
 - **Machine Perception, Computer Vision**
 - **Real-to-Sim and Sim-to-Real in robotics**
 
-In terms of industry experience, I've gained hands-on experience in robotic systems, especially perception systems design. At [LifeFoundry Inc.](https://www.life-foundry.com/), I worked on projects that involve real-time robot agent communication, image classification & processing, and vision-based control based on accurate pose estimation. Recently, I worked on 3D sensor simulation at [Zoox Inc.](https://zoox.com/).
+In terms of industry experience, I've gained hands-on work with robotic systems, focusing on robotic perception. At [LifeFoundry Inc.](https://www.life-foundry.com/), I worked on projects that involve real-time robot agent communication, image classification & processing, and vision-based servo control based on accurate pose estimation. Recently, I worked at [Zoox Inc.](https://zoox.com/), developing novel methods to generate high-fidelity synthetic camera data for the next-generation generative simulation for autonomous vehicles.
 
 Feel free to explore my work and reach out if you're interested. I'm always excited to connect with others in robotics, AI, and tech innovation!

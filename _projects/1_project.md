@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Agricultural Robots Simulation Environment
-description: Build a simulation environment for under-canopy agricultural field robots
+description: A simulation environment for under-canopy agricultural field robots
 img: assets/img/project_agrisim_cover.png
 importance: 1
 category: work
@@ -50,7 +50,7 @@ We chose [Gazebo](https://gazebosim.org/home) to be the solution to build our en
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_agrisim_gif.jpg" title="Gazebo simulation example" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_agrisim_gif.gif" title="Gazebo simulation example" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -61,7 +61,7 @@ The repo for the Gazebo environment can be found at [here](https://github.com/ji
 
 ### Data Collection
 
-Data was recorded using ROS bags and extracted by ROS topic names. The following data was collected and synchronized:
+Row-turning demonstration data can be collected either by commanding the robot to follow pre-defined trajectories or human teleoperation. In either way, data was recorded using ROS bags and extracted by ROS topic names. The following data was collected and synchronized:
 
 - RGB images
 - Depth images
@@ -73,11 +73,11 @@ The data was then further processed using the [Zarr](https://zarr.readthedocs.io
 
 ## Skills Used
 
-- **Simulator**: Gazebo, IsaacGym
+- **Simulation**: Gazebo, IsaacGym
 - **Programming**: Python, C++, CUDA
-- **Robotics**: ROS, MPC Controller, PID Controller, Differential Drive Dynamics
-- **Computer Vision and Graphics**: Camera Configurations, Image Rendering and Processing, Rasterization
+- **Robotics**: ROS, MPC Controller, PID Controller, Differential drive dynamics
+- **Computer Vision and Graphics**: Camera models, Image rendering and processing, rasterization
 
 ## Acknowledgement
 
-Special thanks to Dr. Arun N. Sivakumar and Dr. Jose Cuaran for helping me through this project
+Special thanks to [Dr. Arun N. Sivakumar](https://www.arunnarenthiran.com/) and [Jose Cuaran](https://scholar.google.com/citations?user=9Yhzi4YAAAAJ&hl=es) for helping me through this project. Some assets used in simulation are credit to the [DASLAB](http://daslab.illinois.edu/) at UIUC.
