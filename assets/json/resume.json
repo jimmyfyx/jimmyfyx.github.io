@@ -38,19 +38,20 @@
       "url": "https://zoox.com/",
       "startDate": "2025-05-27",
       "endDate": "2025-08-15",
-      "highlights": ["Work on high-fidelity sensor simulation for validating AV deep learning models with generative AI"]
+      "highlights": [
+        "Worked on high-fidelity sensor simulation for validating AV deep learning models with generative AI", 
+        "Supervisors: Eric Schafer and Phillipe Burlina"
+      ]
     },
     {
       "name": "LifeFoundry Inc.",
-      "location": "Champaign, IL, U.S.",
+      "location": "Hangzhou, China",
       "position": "Robotics Software Engineer",
       "url": "https://www.life-foundry.com/",
       "startDate": "2023-05-20",
       "endDate": "2023-08-15",
       "highlights": [
-        "Coordinated with biological experts to develop a ResNet-based model for tiny colony segmentation at 97% accuracy, by experimenting image augmentation and applying transfer learning to optimize the model performacne at subpixel level",
-        "Collaborated with mechanical teams to build a vision-servo system with ArUco markers to enhance Automated Guided Vehciles (AGVs) precision by 15%, reaching mm-level accuracy in pose estimation",
-        "Calibrated an OpenMV camera for datamatrix label detection, automating tube storage/retrieval to handle over 500 tubes daily"
+        "Worked on improving AGVs communication reliability, built vision-guided control systems for robotic arms, and developed automated vision pipelines to boost bio-manufacture lab efficiency and throughput"
       ]
     }
   ],
