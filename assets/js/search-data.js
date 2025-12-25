@@ -93,6 +93,11 @@ ninja.data = [{
           description: "An autonomous system for F1-Tenth car lane-following",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-geometry-based-video-prediction-for-mobile-robots",
+          title: 'Geometry-based Video Prediction for Mobile Robots',
+          description: "A video prediction framework for mobile robots that models future visual observations by predicting camera motion and rendering future views using scene geometry",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
