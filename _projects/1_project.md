@@ -9,7 +9,7 @@ category: work
 
 This project is related to our work [Learning to Turn: Diffusion Imitation for Robust Row Turning in Under-Canopy Robots](https://arxiv.org/abs/2408.03059), aiming to explore agricultural field robot policy learning with Sim2Real. Thus, an important piece of this work is to build a realistic simulation environment to collect simulated data, which is challenging due to the unstructureness of field environments.
 
-## Procedure
+## Methods
 
 ### IsaacGym
 
@@ -73,10 +73,10 @@ The data was then further processed using the [Zarr](https://zarr.readthedocs.io
 
 ## Skills Used
 
-- **Simulation**: Gazebo, IsaacGym
-- **Programming**: Python, C++, CUDA
+- **Robotics Simulation**: Gazebo, IsaacGym
 - **Robotics**: ROS, MPC Controller, PID Controller, Differential drive dynamics
 - **Computer Vision and Graphics**: Camera models, Image rendering and processing, rasterization
+- **Programming**: Python, C++, CUDA
 
 ## Acknowledgement
 

@@ -31,12 +31,8 @@ I'm a second-year M.S./Ph.D. student at [University of Illinois Urbana-Champaign
 
 Before attending graduate school, I obtained my bachelor's degree also at University of Illinois Urbana-Champaign, where I majored in Electrical Engineering and minored in Computer Science.
 
-In my academic journey, I specialize in developing algorithms to enhance the spatial awareness and decision-making abilities of autonomous systems to safely navigate in dynamic and unstructured environments. Topics I'm interested in include but not limited to:
+In my academic journey, I specialize in exploring methods to enhance the spatial awareness and decision-making abilities of autonomous systems to **safely navigate in dynamic and unstructured environments**, by leveraging techniques in **machine perception**, **machine learning**, and **real-to-sim-to-real in robotics**.
 
-- **Safe Autonomy**
-- **Machine Perception, Computer Vision**
-- **Real-to-Sim and Sim-to-Real in robotics**
-
-In industry, I had spent time at [Zoox Inc.](https://zoox.com/), honorably supervised by [Eric Schafer](https://www.linkedin.com/in/eric-schafer-1636853) and [Phillipe Burlina](https://resvirtualis.github.io/) to work on generative sensor simulation for autonomous vehicles. Earlier, I was at [LifeFoundry Inc.](https://www.life-foundry.com/), working on real-time vision-based perception system for AGVs. 
+In industry, I had spent time at [Zoox Inc.](https://zoox.com/), honorably supervised by [Eric Schafer](https://www.linkedin.com/in/eric-schafer-1636853) and [Dr. Phillipe Burlina](https://resvirtualis.github.io/) to work on generative sensor simulation for autonomous vehicles. Earlier, I was at [LifeFoundry Inc.](https://www.life-foundry.com/), working on real-time vision-based perception system for AGVs. 
 
 Feel free to explore my work and reach out if you're interested. I'm always excited to connect with others in robotics, AI, and tech innovation!

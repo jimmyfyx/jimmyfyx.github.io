@@ -28,9 +28,9 @@ Details can be found at [the project repo](https://github.com/jimmyfyx/F1-Tenth-
 
 ## Skills Used
 
-- **Programming**: Python, C++
 - **Robotics**: ROS, Pure-pursuit controller, Sampling-based motion planning, Jetson Nano developing framework
 - **Computer Vision**: OpenCV, HOG features, Image filtering, LiDAR processing
+- **Programming**: Python, C++
 
 ## Acknowledgement
 
